@@ -2,28 +2,23 @@
 
 ---
 
-### Category Name 1 
+### Choropleth Maps 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Percent of the Population that have attained a Bachelor's Degree by block group in Mayes County, OKlahoma](/sample_page)
+<img src="images/BACHELORS DEGREE.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Population Distribution by Block Group in Cleveland County, OKlahoma](/pdf/sample_presentation.pdf)
+<img src="images/BGpoppink.jpg?raw=true"/>
+
 
 ---
 
-### Category Name 2
+### Animations
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Animation of seasons in Africa]
+<img src="images/BGpoppink.jpg?raw=true"/>
+
 
 ---
 
