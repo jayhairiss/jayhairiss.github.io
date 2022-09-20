@@ -17,7 +17,7 @@
 ### Animations
 
 - [Animation of seasons in Africa]
-<img src="images/AfricaSEASONS.gif.jpg?raw=true"/>
+<img src="images/AfricaSEASONS.gif?raw=true"/>
 
 
 ---
