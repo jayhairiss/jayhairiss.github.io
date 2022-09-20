@@ -4,7 +4,7 @@
 
 ### Choropleth Maps 
 
-[Percent of the Population that have attained a Bachelor's Degree by block group in Mayes County, OKlahoma](/sample_page)
+[Percentage of the population that have attained a Bachelor's Degree by block group in Mayes County, OKlahoma](/sample_page)
 <img src="images/BACHELORS DEGREE.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 ### Animations
 
 - [Animation of seasons in Africa]
-<img src="images/BGpoppink.jpg?raw=true"/>
+<img src="images/AfricaSEASONS.gif.jpg?raw=true"/>
 
 
 ---
