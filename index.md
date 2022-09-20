@@ -4,11 +4,11 @@
 
 ### Choropleth Maps 
 
-[Percentage of the population that have attained a Bachelor's Degree by block group in Mayes County, OKlahoma](/sample_page)
+[Percentage of the population that have attained a Bachelor's Degree by block group in Mayes County, OKlahoma]
 <img src="images/BACHELORS DEGREE.jpg?raw=true"/>
 
 ---
-[Population Distribution by Block Group in Cleveland County, OKlahoma](/pdf/sample_presentation.pdf)
+[Population Distribution by Block Group in Cleveland County, OKlahoma]
 <img src="images/BGpoppink.jpg?raw=true"/>
 
 
