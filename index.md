@@ -59,7 +59,7 @@
 <a href="https://jayhairiss.github.io/pdf/TERM PROJECT.pdf">View Here</a>
 ---
 [Location Analysis of Healthcare Facilities within the Muscogee Creek Nation ]
-<a href="https://jayhairiss.github.io/pdf/Term Project Report(1).pdf">View Here</a>
+<a href="https://jayhairiss.github.io/pdf/Term Project Report (1).pdf">View Here</a>
 ---
 
 
