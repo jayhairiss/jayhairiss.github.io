@@ -8,7 +8,7 @@
 <img src="images/BACHELORS DEGREE.jpg?raw=true"/>
 
 ---
-[Native American Population of Mayes County, Oklahoma by block group.
+[Native American Population of Mayes County, Oklahoma by block group]
 <img src="images/Mayes_native.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 
 ---
-[Cluster/Outlier Types for Crime in Chicago Area
+[Cluster/Outlier Types for Crime in Chicago Area]
 <img src="images/ClusterOutlier.jpg?raw=true"/>
 
 
@@ -58,6 +58,9 @@
 [Self-rated health values for Oklahoma counties with limited access to health care facilities]
 <a href="https://jayhairiss.github.io/pdf/TERM PROJECT.pdf">View Here</a>
 </br>
+
+</br>
+
 [Location Analysis of Healthcare Facilities within the Muscogee Creek Nation ]
 <a href="https://jayhairiss.github.io/pdf/Term Project Report (1).pdf">View Here</a>
 ---
