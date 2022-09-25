@@ -54,5 +54,16 @@
 
 
 ---
+### Writing Sample
+[Self-rated health values for Oklahoma counties with limited access to health care facilities]
+<embed src="https://jayhairiss.github.io/TERM PROJECT.pdf" width="100%" height="850px"/>
+
+---
+[Location Analysis of Healthcare Facilities within the Muscogee Creek Nation ]
+<embed src="https://jayhairiss.github.io/TERM PROJECT.pdf" width="100%" height="850px"/>
+
+---
+
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
