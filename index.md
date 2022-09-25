@@ -56,11 +56,10 @@
 ---
 ### Writing Sample
 [Self-rated health values for Oklahoma counties with limited access to health care facilities]
-<a href="https://jayhairiss.github.io/pdf/TERM PROJECT.pdf">mypdf</a>
+<a href="https://jayhairiss.github.io/pdf/TERM PROJECT.pdf">View Here</a>
 ---
 [Location Analysis of Healthcare Facilities within the Muscogee Creek Nation ]
-<embed src="https://jayhairiss.github.io/TERM PROJECT.pdf" width="100%" height="850px"/>
-
+<a href="https://jayhairiss.github.io/pdf/Term Project Report(1).pdf">View Here</a>
 ---
 
 
