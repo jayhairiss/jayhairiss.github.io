@@ -1,5 +1,6 @@
 ## Portfolio
 ### Web Maps
+#### Click Thumbnail to View on arcgis.com
 [![Muscogee Creek Nation Health Care Facilties](images/thum.jpg)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=7d70ac82eed94d3a87a8668013d73fe1)
 ---
 [![Lilac District Claremore, Oklahoma](images/Claremore.jpg)](https://arcg.is/0eTb0e)
