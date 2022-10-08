@@ -1,5 +1,6 @@
 ## Portfolio
 ### Apps
+#### Click thumbnail to launch app
 [![Split Panel Burn App](images/Split Panel.jpg)](https://harrisphs.users.earthengine.app/view/split-panel-burn-app)
 ---
 
