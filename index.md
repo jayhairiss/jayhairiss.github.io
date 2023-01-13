@@ -4,6 +4,12 @@
 [![Split Panel Burn App](images/Split Panel.jpg)](https://harrisphs.users.earthengine.app/view/split-panel-burn-app)
 ---
 
+### Animations
+
+- [Animation of seasons in Africa]
+<imgsrc="images/AfricaSEASONS.gif?raw=true"/>
+---
+
 ### Web Maps
 #### Click Thumbnail to View on arcgis.com
 [![Muscogee Creek Nation Health Care Facilties](images/thum.jpg)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=7d70ac82eed94d3a87a8668013d73fe1)
