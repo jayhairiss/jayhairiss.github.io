@@ -5,8 +5,7 @@
 ---
 
 ### Animations
-
-- [Animation of seasons in Africa]
+[Animation of seasons in Africa]
 <imgsrc="images/AfricaSEASONS.gif?raw=true"/>
 ---
 
